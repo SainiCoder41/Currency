@@ -2979,7 +2979,6 @@ root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     lineNumber: 16,
     columnNumber: 13
 }, undefined));
-v;
 var _c;
 $RefreshReg$(_c, "App");
 
